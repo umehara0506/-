@@ -26,4 +26,10 @@
 
 
 ### 事前課題2-7
-<img src="https://user-images.githubusercontent.com/48054315/148724760-ebd9d67f-1a28-41ce-9e09-51d62dafc626.PNG" width="450px">　<img src="https://user-images.githubusercontent.com/48054315/148724756-36f1e0d8-1f65-4af6-82ea-5cb51c7a9956.PNG" width="450px">　<img src="https://user-images.githubusercontent.com/48054315/148724758-32ffeaa7-9ced-42c9-b7e3-6c8022ad3ecd.PNG" width="450px">
+<img src="https://user-images.githubusercontent.com/48054315/149606819-bf89ba1c-903e-4e6b-b7ab-395a7c3dc33f.PNG" width="450px">　<img src="https://user-images.githubusercontent.com/48054315/149606820-0183220d-4605-4679-bf3a-3c25ecb36467.PNG" width="450px">　<img src="https://user-images.githubusercontent.com/48054315/149606815-5fd328e5-a421-4624-9956-553fc2f23e89.PNG" width="450px">
+
+
+
+
+
+
