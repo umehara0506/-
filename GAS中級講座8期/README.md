@@ -8,3 +8,6 @@
 
 クラスをコードの資産としている例としては
 [etauさんのGitHub](https://github.com/etau/gas-classes)がとても参考になります。
+
+【その他参考リンク】
+- [ノンプロ研wiki](https://www.notion.so/nonproken/GAS-96ea01f7a2aa4b349d8e975bdb6c67a8)
