@@ -1,1 +1,10 @@
+自身の環境でコードを取り込んで実行するためにはGitHubアカウントが必用です。
+隣ITの記事を参考に実行してみてください。
 
+[GASのバージョン管理の課題とGoogle Apps Script GitHub アシスタントができること](https://tonari-it.com/gas-github-assistant-introduction/)
+
+特に2回目で行うクラスをGitHubにためていくとコードが資産となり、
+今後楽に再利用性の高いコードを書こうという意識が高まります。
+
+クラスをコードの資産としている例としては
+[etauさんのGitHub](https://github.com/etau/gas-classes)がとても参考になります。
