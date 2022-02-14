@@ -1,7 +1,15 @@
 {
   "timeZone": "Asia/Tokyo",
-  "dependencies": {
-  },
   "exceptionLogging": "STACKDRIVER",
-  "runtimeVersion": "V8"
+  "runtimeVersion": "V8",
+  "dependencies": {
+    "libraries": [
+      {
+        "userSymbol": "MyOnigiri",
+        "libraryId": "1sOnXVLvPw21rh1H1M-k8ZSsXs2vfuGEwjLtwmryIaqGvncz6unqkz4pJ",
+        "version": "0",
+        "developmentMode": true
+      }
+    ]
+  }
 }
