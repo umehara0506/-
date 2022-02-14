@@ -7,13 +7,13 @@
  * 販売金額を表すプロパティ: price
  * 在庫数を表すプロパティ: stock
 */
-// class Onigiri {
-//   constructor (name, price, stock) {
-//     this.name = name;
-//     this.price = price;
-//     this.stock = stock;
-//   }
-// }
+class Onigiri {
+  constructor (name, price, stock) {
+    this.name = name;
+    this.price = price;
+    this.stock = stock;
+  }
+}
 
 function myFunction2_05() {
 
